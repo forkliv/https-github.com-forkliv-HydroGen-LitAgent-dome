@@ -1,4 +1,4 @@
-# HydroGen-LitAgent
+# HydroGen-LitAgent  GOAI世界人工智能开源大赛AI4S 复赛入围项目
 
 **氢能储运装备材料文献调研与构效关系发现系统** — 多 Agent 智能体（8 角色 LangGraph/DAG 工作流）＋ 路线 A 搜索优化（GA/BO/MCTS + LLM 深度融合）
 
